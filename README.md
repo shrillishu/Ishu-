@@ -1,4 +1,4 @@
-# Ishu-
+# Codes of the pygame 
 Python Based pong game 
 import pygame
 import sys
